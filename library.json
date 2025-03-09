@@ -1,0 +1,26 @@
+{
+  "name": "ESP32F503i",
+  "version": "0.0.1",
+  "description": "Library to control F503i of 'Shougaku 8th' magazine with ESP32 BLE",
+  "keywords": [
+    "F503i",
+    "ESP32",
+    "BLE"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ktetsuo/ESP32F503i.git"
+  },
+  "authors": [
+    {
+      "name": "ktetsuo",
+      "email": "ktetsuo@users.noreply.github.com",
+      "url": "https://github.com/ktetsuo",
+      "maintainer": true
+    }
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/ktetsuo/ESP32F503i",
+  "frameworks": "arduino",
+  "platforms": "espressif32"
+}

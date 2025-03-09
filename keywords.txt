@@ -1,0 +1,13 @@
+F503i	KEYWORD1
+begin	KEYWORD2
+end	KEYWORD2
+isConnect	KEYWORD2
+getKeyValue	KEYWORD2
+isKeyOn	KEYWORD2
+keyIndexToChar	KEYWORD2
+turnOnLED	KEYWORD2
+turnOffLED	KEYWORD2
+setLEDBrightness	KEYWORD2
+getLightSensorValue	KEYWORD2
+turnOnBuzzer	KEYWORD2
+turnOffBuzzer	KEYWORD2
